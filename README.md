@@ -10,3 +10,7 @@ Includes an Input with an extractor, therefore:
 - Update processor order
 - Configure pfSense to send logs
 - Profit??!?!
+
+
+All credit to Jake Stride
+https://github.com/jstride/graylog-pfsense-content-pack
